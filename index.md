@@ -13,3 +13,6 @@ at the problem was. Fix the errors so that the tests pass. A good idea is to rep
 
 Some saying
 > blablabla
+
+<img src="https://upload.wikimedia.org/wikipedia/donate/thumb/b/b6/WLE_Austria_Logo_%28no_text%29_local.svg/50px-WLE_Austria_Logo_%28no_text%29_local.svg.png"/>
+
